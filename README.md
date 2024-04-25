@@ -31,3 +31,7 @@ Requirements
 ------------
 
 * OpenCV >= 2.3
+
+
+参考资料
+《Hessian矩阵以及在血管增强中的应用——OpenCV实现【2024年更新】》 https://www.cnblogs.com/jsxyhelu/p/18157603 
